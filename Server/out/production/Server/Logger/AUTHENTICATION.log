@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:23:26</date>
+  <millis>1635794606128</millis>
+  <sequence>0</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:23:48</date>
+  <millis>1635794628835</millis>
+  <sequence>0</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:34:40</date>
+  <millis>1635795280965</millis>
+  <sequence>0</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:38:04</date>
+  <millis>1635795484521</millis>
+  <sequence>0</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:45:34</date>
+  <millis>1635795934657</millis>
+  <sequence>0</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authentication.AuthenticationOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>

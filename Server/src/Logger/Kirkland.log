@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T23:03:44</date>
+  <millis>1635044624979</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T23:06:40</date>
+  <millis>1635044800822</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T23:07:22</date>
+  <millis>1635044842146</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:29:18</date>
+  <millis>1635791358093</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:41:18</date>
+  <millis>1635792078421</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:43:16</date>
+  <millis>1635792196684</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:45:11</date>
+  <millis>1635792311610</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:52:59</date>
+  <millis>1635792779364</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:58:27</date>
+  <millis>1635793107516</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:06:41</date>
+  <millis>1635793601561</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:12:07</date>
+  <millis>1635793927554</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:20:02</date>
+  <millis>1635794402074</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:23:49</date>
+  <millis>1635794629629</millis>
+  <sequence>3</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:34:41</date>
+  <millis>1635795281805</millis>
+  <sequence>3</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:38:05</date>
+  <millis>1635795485489</millis>
+  <sequence>3</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+<record>
+  <date>2021-11-01T15:38:16</date>
+  <millis>1635795496759</millis>
+  <sequence>4</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>22</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:38:16</date>
+  <millis>1635795496763</millis>
+  <sequence>5</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>22</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:45:35</date>
+  <millis>1635795935374</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+<record>
+  <date>2021-11-01T15:59:00</date>
+  <millis>1635796740561</millis>
+  <sequence>15</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>26</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:59:00</date>
+  <millis>1635796740569</millis>
+  <sequence>16</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>26</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:59:00</date>
+  <millis>1635796740573</millis>
+  <sequence>17</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>26</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:59:00</date>
+  <millis>1635796740576</millis>
+  <sequence>18</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>26</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:59:00</date>
+  <millis>1635796740581</millis>
+  <sequence>19</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>26</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:59:00</date>
+  <millis>1635796740585</millis>
+  <sequence>20</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>26</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:59:00</date>
+  <millis>1635796740592</millis>
+  <sequence>21</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>26</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:59:00</date>
+  <millis>1635796740597</millis>
+  <sequence>22</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>26</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:59:00</date>
+  <millis>1635796740601</millis>
+  <sequence>23</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>26</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T16:02:36</date>
+  <millis>1635796956222</millis>
+  <sequence>24</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>30</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: KKLS1234
+	Booking ID: 5518
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T16:02:51</date>
+  <millis>1635796971786</millis>
+  <sequence>25</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>31</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: KKLS1234
+	Booking ID: 61158
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T16:02:51</date>
+  <millis>1635796971788</millis>
+  <sequence>26</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>cancelBooking</method>
+  <thread>31</thread>
+  <message>Booking cancellation: 
+	Student ID: KKLS1234
+	Booking ID: 5518
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T16:24:58</date>
+  <millis>1635798298882</millis>
+  <sequence>2</sequence>
+  <logger>Kirkland</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Kirkland Server created</message>
+</record>
+</log>

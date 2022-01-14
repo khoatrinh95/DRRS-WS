@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T23:03:44</date>
+  <millis>1635044624978</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T23:06:40</date>
+  <millis>1635044800821</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T23:07:22</date>
+  <millis>1635044842145</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:29:18</date>
+  <millis>1635791358092</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:41:18</date>
+  <millis>1635792078420</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:43:16</date>
+  <millis>1635792196683</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:45:11</date>
+  <millis>1635792311609</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:52:59</date>
+  <millis>1635792779363</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:58:27</date>
+  <millis>1635793107516</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:06:41</date>
+  <millis>1635793601560</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:12:07</date>
+  <millis>1635793927554</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-11-01T15:13:48</date>
+  <millis>1635794028952</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>18</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:20:02</date>
+  <millis>1635794402073</millis>
+  <sequence>1</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:23:49</date>
+  <millis>1635794629629</millis>
+  <sequence>2</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:34:41</date>
+  <millis>1635795281804</millis>
+  <sequence>2</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-11-01T15:34:47</date>
+  <millis>1635795287961</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>22</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:38:05</date>
+  <millis>1635795485488</millis>
+  <sequence>2</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:45:35</date>
+  <millis>1635795935375</millis>
+  <sequence>3</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050345</millis>
+  <sequence>4</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>24</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050357</millis>
+  <sequence>5</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>24</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050361</millis>
+  <sequence>6</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>24</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050365</millis>
+  <sequence>7</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>24</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050368</millis>
+  <sequence>8</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>24</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050371</millis>
+  <sequence>9</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>24</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050375</millis>
+  <sequence>10</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>24</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050378</millis>
+  <sequence>11</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>24</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050382</millis>
+  <sequence>12</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>24</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:53</date>
+  <millis>1635796073209</millis>
+  <sequence>13</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>deleteRoom</method>
+  <thread>24</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:48:07</date>
+  <millis>1635796087741</millis>
+  <sequence>14</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>deleteRoom</method>
+  <thread>24</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T16:24:58</date>
+  <millis>1635798298883</millis>
+  <sequence>3</sequence>
+  <logger>Dorval</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Dorval Server created</message>
+</record>
+</log>

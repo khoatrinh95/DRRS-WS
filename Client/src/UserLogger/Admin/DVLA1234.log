@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050352</millis>
+  <sequence>0</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>createRoomFromFile</method>
+  <thread>1</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050359</millis>
+  <sequence>1</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>createRoomFromFile</method>
+  <thread>1</thread>
+  <message>Room creation: 002
+	Date: 12/01/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050363</millis>
+  <sequence>2</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>createRoomFromFile</method>
+  <thread>1</thread>
+  <message>Room creation: 003
+	Date: 12/01/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050366</millis>
+  <sequence>3</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>createRoomFromFile</method>
+  <thread>1</thread>
+  <message>Room creation: 001
+	Date: 12/02/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050369</millis>
+  <sequence>4</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>createRoomFromFile</method>
+  <thread>1</thread>
+  <message>Room creation: 002
+	Date: 12/02/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050373</millis>
+  <sequence>5</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>createRoomFromFile</method>
+  <thread>1</thread>
+  <message>Room creation: 003
+	Date: 12/02/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050376</millis>
+  <sequence>6</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>createRoomFromFile</method>
+  <thread>1</thread>
+  <message>Room creation: 001
+	Date: 12/03/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050380</millis>
+  <sequence>7</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>createRoomFromFile</method>
+  <thread>1</thread>
+  <message>Room creation: 002
+	Date: 12/03/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:30</date>
+  <millis>1635796050383</millis>
+  <sequence>8</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>createRoomFromFile</method>
+  <thread>1</thread>
+  <message>Room creation: 003
+	Date: 12/03/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:47:53</date>
+  <millis>1635796073189</millis>
+  <sequence>9</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>deleteRoom</method>
+  <thread>1</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	Admin ID: DVLA1234</message>
+</record>
+<record>
+  <date>2021-11-01T15:48:07</date>
+  <millis>1635796087734</millis>
+  <sequence>10</sequence>
+  <logger>DVLA1234</logger>
+  <level>INFO</level>
+  <class>Client.Admin.AdminOperations</class>
+  <method>deleteRoom</method>
+  <thread>1</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	Admin ID: DVLA1234</message>
+</record>
+</log>

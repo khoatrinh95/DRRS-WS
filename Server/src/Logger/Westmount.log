@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T23:03:44</date>
+  <millis>1635044624972</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T23:06:40</date>
+  <millis>1635044800815</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-23T23:07:22</date>
+  <millis>1635044842139</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:29:18</date>
+  <millis>1635791358086</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:41:18</date>
+  <millis>1635792078410</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:43:16</date>
+  <millis>1635792196676</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:45:11</date>
+  <millis>1635792311603</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:52:59</date>
+  <millis>1635792779355</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T14:58:27</date>
+  <millis>1635793107508</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+<record>
+  <date>2021-11-01T15:05:27</date>
+  <millis>1635793527601</millis>
+  <sequence>3</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>17</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:06:41</date>
+  <millis>1635793601553</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:12:07</date>
+  <millis>1635793927546</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+<record>
+  <date>2021-11-01T15:12:14</date>
+  <millis>1635793934027</millis>
+  <sequence>3</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>17</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:12:40</date>
+  <millis>1635793960558</millis>
+  <sequence>4</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>17</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-11-01T15:12:40</date>
+  <millis>1635793960563</millis>
+  <sequence>5</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>17</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-11-01T15:13:10</date>
+  <millis>1635793990240</millis>
+  <sequence>6</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>17</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-11-01T15:13:10</date>
+  <millis>1635793990244</millis>
+  <sequence>7</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>17</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-11-01T15:13:10</date>
+  <millis>1635793990265</millis>
+  <sequence>8</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>17</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-11-01T15:13:48</date>
+  <millis>1635794028914</millis>
+  <sequence>9</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>17</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-11-01T15:13:48</date>
+  <millis>1635794028918</millis>
+  <sequence>10</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>17</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:20:02</date>
+  <millis>1635794402067</millis>
+  <sequence>0</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:23:49</date>
+  <millis>1635794629627</millis>
+  <sequence>1</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:34:41</date>
+  <millis>1635795281803</millis>
+  <sequence>1</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+<record>
+  <date>2021-11-01T15:34:47</date>
+  <millis>1635795287893</millis>
+  <sequence>4</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>21</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T15:34:47</date>
+  <millis>1635795287915</millis>
+  <sequence>5</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>21</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:38:05</date>
+  <millis>1635795485488</millis>
+  <sequence>1</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T15:45:35</date>
+  <millis>1635795935374</millis>
+  <sequence>1</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T16:24:58</date>
+  <millis>1635798298882</millis>
+  <sequence>1</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Westmount Server created</message>
+</record>
+<record>
+  <date>2021-11-01T16:25:07</date>
+  <millis>1635798307861</millis>
+  <sequence>4</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>21</thread>
+  <message>Room creation: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T16:26:13</date>
+  <millis>1635798373593</millis>
+  <sequence>5</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>22</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-11-01T16:26:13</date>
+  <millis>1635798373598</millis>
+  <sequence>6</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>createRoom</method>
+  <thread>22</thread>
+  <message>Time slots creation: 001
+	Date: 12/01/2021
+	FAIL</message>
+</record>
+<record>
+  <date>2021-11-01T16:28:07</date>
+  <millis>1635798487550</millis>
+  <sequence>7</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>deleteRoom</method>
+  <thread>23</thread>
+  <message>Room deletion: 001
+	Date: 12/01/2021
+	SUCCESS</message>
+</record>
+<record>
+  <date>2021-11-01T16:33:24</date>
+  <millis>1635798804313</millis>
+  <sequence>8</sequence>
+  <logger>Westmount</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>bookRoom</method>
+  <thread>24</thread>
+  <message>Room booked: 001
+	Date: 12/01/2021
+	Student ID: DVLS1234
+	Booking ID: 51409
+	SUCCESS</message>
+</record>
+</log>

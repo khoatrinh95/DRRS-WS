@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-11-01T16:02:36</date>
+  <millis>1635796956203</millis>
+  <sequence>0</sequence>
+  <logger>KKLS1234</logger>
+  <level>INFO</level>
+  <class>Client.Student.StudentOperations</class>
+  <method>bookRoom</method>
+  <thread>1</thread>
+  <message>Room booked: 001
+	Campus: dorval
+	Date: 12/01/2021</message>
+</record>
+<record>
+  <date>2021-11-01T16:02:51</date>
+  <millis>1635796971767</millis>
+  <sequence>1</sequence>
+  <logger>KKLS1234</logger>
+  <level>INFO</level>
+  <class>Client.Student.StudentOperations</class>
+  <method>changeReservation</method>
+  <thread>1</thread>
+  <message>Room booked: 001
+	Campus: kirkland
+	Date: 12/01/2021</message>
+</record>
+</log>
